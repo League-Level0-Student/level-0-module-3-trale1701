@@ -64,7 +64,7 @@ public class ObedientRobot {
 		for (int i = 0; i < 3; i++) {
 			t.move(100);
 			t.turn(120);
-			
+
 		}
 		t.penUp();
 		t.move(200);
